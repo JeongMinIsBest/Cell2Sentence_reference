@@ -1,6 +1,5 @@
 # Cell2Sentence - Inference 실험 내역 💼
-
-**Cell2Sentence 모델을 재학습하지 않고**, 이미 정의된 구조를 사용해 **F embedding을 추론(inference)** 하면서 출력 Representation의 특성을 관찰한 실험 기록을 답고 있습니다.
+**Cell2Sentence 모델을 재학습하지 않고**, 이미 정의된 구조를 사용해 **F embedding을 추론(inference)** 하면서 출력 Representation의 특성을 관찰한 실험 기록을 담고 있습니다.
   
 모든 실험은 Jupyter Notebook 기반으로 수행되었으며, 각 노트북은 이전 실험에서 생긴 의문을 다음 실험에서 확인하는 방식으로 진행되었습니다.
 <br/>
