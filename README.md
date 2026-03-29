@@ -14,7 +14,7 @@ All experiments were conducted using Jupyter Notebooks, and each notebook procee
 - Checked the input data format and the shape of the output F embedding  
 - Examined the value range and basic distribution of the embedding  
   
-→ Purpose: understanding the model structure and performing a sanity check
+```→ Purpose: understanding the model structure and performing a sanity check```
 <br/>
 <br/>
 
@@ -26,7 +26,7 @@ All experiments were conducted using Jupyter Notebooks, and each notebook procee
 - Compared embedding differences under the same structure but different inputs  
 - Identified change patterns through simple numerical comparisons and visualizations  
   
-→ Understanding how embeddings respond to input variations
+```→ Understanding how embeddings respond to input variations```
 <br/>
 <br/>
 
@@ -50,7 +50,7 @@ All experiments were conducted using Jupyter Notebooks, and each notebook procee
 - Qualitatively evaluated whether F embeddings can be used for downstream analysis  
 - Compiled characteristics observed throughout the experiments  
   
-→ A concluding step to assess whether “this embedding can be used”
+```→ A concluding step to assess whether “this embedding can be used”```
 <br/>
 <br/>
 
