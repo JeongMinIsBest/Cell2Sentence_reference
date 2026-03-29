@@ -14,7 +14,7 @@
 - 입력 데이터 형식과 출력 F embedding의 shape 확인
 - embedding 값 범위 및 기본 분포 확인
   
-→ 모델 구조 이해 및 sanity check 목적
+```→ 모델 구조 이해 및 sanity check 목적```
 <br/>
 <br/>
 
@@ -26,7 +26,7 @@
 - 동일 구조, 다른 입력에 대한 embedding 차이 비교
 - 단순 수치 비교 및 시각화를 통해 변화 패턴 확인
   
-→ embedding이 입력 변화에 반응하는 방식 파악
+```→ embedding이 입력 변화에 반응하는 방식 파악```
 <br/>
 <br/>
 
@@ -38,7 +38,7 @@
 - noise 또는 작은 입력 변화에 대한 민감도 관찰
 - embedding 분포 형태 시각화
 
-→ representation으로서의 안정성 확인
+```→ representation으로서의 안정성 확인```
 <br/>
 <br/>
 
@@ -50,7 +50,7 @@
 - F embedding이 downstream 분석에 사용 가능한지 정성적으로 검토
 - 실험 중 관찰된 특징 요약
   
-→ “이 embedding을 써도 되는가?”에 대한 정리 단계
+```→ “이 embedding을 써도 되는가?”에 대한 정리 단계```
 <br/>
 <br/>
 
