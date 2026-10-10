@@ -1,11 +1,11 @@
-# Cell2Sentence – Inference Experiment Log 💼
+# 💼 Cell2Sentence – Inference Experiment Log 
 This repository contains a record of experiments that observe the characteristics of output representations by **performing inference on F embeddings** using the already defined structure of the Cell2Sentence model, **without retraining the model**.
   
 All experiments were conducted using Jupyter Notebooks, and each notebook proceeds in a way that questions raised in previous experiments are examined in subsequent ones.
 <br/>
 <br/>
 
-## Experimental Setup 🧪
+## 🧪 Experimental Setup 
 
 ### 1. Initial Inference Experiment  
 **`initial_exp/cell2sentence_f_inference_exp1.ipynb`**
@@ -54,7 +54,7 @@ All experiments were conducted using Jupyter Notebooks, and each notebook procee
 <br/>
 <br/>
 
-## Directory Structure 🗂️
+## 🗂️ Directory Structure 
 ```
 Cell2Sentence_reference-main/
 ├─ initial_exp/
@@ -71,7 +71,7 @@ Cell2Sentence_reference-main/
 <br/>
 <br/>
 
-## Reference Paper 🖋️
+## 🖋️ Reference Paper 
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v3)
 <br/>
 <br/>
