@@ -1,11 +1,11 @@
-# Cell2Sentence - Inference 실험 내역 💼
+# 💼 Cell2Sentence - Inference 실험 내역 
 **Cell2Sentence 모델을 재학습하지 않고**, 이미 정의된 구조를 사용해 **F embedding을 추론(inference)** 하면서 출력 Representation의 특성을 관찰한 실험 기록을 담고 있습니다.
   
 모든 실험은 Jupyter Notebook 기반으로 수행되었으며, 각 노트북은 이전 실험에서 생긴 의문을 다음 실험에서 확인하는 방식으로 진행되었습니다.
 <br/>
 <br/>
 
-## 실험 구성 🧪
+## 🧪 실험 구성 
 
 ### 1. 초기 추론 실험  
 **`initial_exp/cell2sentence_f_inference_exp1.ipynb`**
@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-## 디렉토리 구조 🗂️
+## 🗂️ 디렉토리 구조 
 ```
 Cell2Sentence_reference-main/
 ├─ initial_exp/
@@ -71,7 +71,7 @@ Cell2Sentence_reference-main/
 <br/>
 <br/>
 
-## 참고 논문 🖋️
+## 🖋️ 참고 논문 
 - [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v3)
 <br/>
 <br/>
